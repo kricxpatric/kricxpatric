@@ -1,3 +1,8 @@
+![MasterHead](https://framerusercontent.com/images/TQY8WxPVq4pt2RP3nuaiRsvA0M.png?width=3072&height=1536)
+<h1 align="center">Hi 👋, I'm Titas Haldar.</h1>
+<h3 align="center">A Tech Enthusiast.</h3>
+
+
 # 💫 About Me:
 🎓 CSE ’27<br>🧠 ML • 🔗 Full Stack Dev • ⚙️ Systems<br>🛠️ Turning ideas into code, one repo at a time<br>💡 Curious. Consistent. Code-driven.
 
