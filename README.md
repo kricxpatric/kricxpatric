@@ -1,6 +1,6 @@
 ![MasterHead](https://framerusercontent.com/images/TQY8WxPVq4pt2RP3nuaiRsvA0M.png?width=3072&height=1536)
-<h1 align="center">Hi 👋, I'm Titas Haldar.</h1>
-<h3 align="center">A Tech Enthusiast.</h3>
+<h1 align="center">Hello 👋, It's TITAS</h1>
+<h3 align="center">LEARN • CODE • BUILD • REPEAT</h3>
 
 
 # 💫 About Me:
